@@ -5,4 +5,4 @@ Utilisez votre pioche pratique pour extraire du fer, de l'or et des pierres pré
 Si vous voulez que votre partie soit sauvegardé de mon coté -officiellement, c'est à dire sur ce github-, vous pouvez faire un Pull request de votre fichier joueur ou me dire en issue vos stats (gem, fer, or, monnaie, etc...)
 
 Devlog: 
-cliquez [ici]("https://github.com/betawolfy/Miner-en-fr/releases")
+cliquez [ici](https://github.com/betawolfy/Miner-en-fr/releases)
